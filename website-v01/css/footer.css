@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .hero {
-  background: url("http://static.pexels.com/wp-content/uploads/2014/07/beach-coast-holiday-2190-825x550.jpg") no-repeat center center;
+  background: url("https://echalk-slate-prod.s3.amazonaws.com/private/schools/85/resources/27204423-4787-4cb1-83ff-d793e65bf1b7?AWSAccessKeyId=AKIAIZQPKIVDQVS7TUJA&Expires=1790842845&response-content-disposition=attachment%3Bfilename%3D%22be%2520in.jpg%22&response-content-type=image%2Fjpeg&Signature=Y9r5eU9r1LDsBvpC%2FDotWTM2pSk%3D") no-repeat center center;
   background-size: cover;
   height: 50vh;
   overflow: hidden; }
